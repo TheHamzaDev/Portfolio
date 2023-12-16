@@ -10,3 +10,21 @@ Checkout the live demo and try it for yourself: [hamzafolio.netlify.app/](https:
 
 ## Screenshots
 <img width="1904" alt="portfolio" src="https://github.com/TheHamzaDev/Portfolio/assets/143728239/8b6a89ba-baf5-4709-b288-98e2615fc68c">
+
+## Run On Local
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Step 1: Clone the repository
+```
+git clone https://github.com/TheHamzaDev/Trailergaze-MovieAPI.git
+```
+### Step 2: Navigate To Clone
+```
+cd your_path/Trailergaze-MovieAPI
+```
+### Step 3: Install Dependencies
+```
+npm install
+npm install framer-motion
+```
+You will also need to install Tailwind CSS for Vite: [Install here](https://tailwindcss.com/docs/guides/vite)
