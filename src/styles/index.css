@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+html {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f4f1ea;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "SequelLight";
+  src: url("../assets/fonts/Sequel Sans Light Disp.otf");
+}
+
+@font-face {
+  font-family: "SequelBold";
+  src: url("../assets/fonts/Sequel Sans Bold Disp.otf");
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f4f1ea;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #787874;
+}
