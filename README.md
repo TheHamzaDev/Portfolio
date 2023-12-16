@@ -16,11 +16,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Step 1: Clone the repository
 ```
-git clone https://github.com/TheHamzaDev/Trailergaze-MovieAPI.git
+git clone https://github.com/TheHamzaDev/Portfolio.git
 ```
 ### Step 2: Navigate To Clone
 ```
-cd your_path/Trailergaze-MovieAPI
+cd your_path/Portfolio
 ```
 ### Step 3: Install Dependencies
 ```
