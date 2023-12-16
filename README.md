@@ -28,3 +28,12 @@ npm install
 npm install framer-motion
 ```
 You will also need to install Tailwind CSS for Vite: [Install here](https://tailwindcss.com/docs/guides/vite)
+
+## Step 4: Run Project
+```
+npm run dev
+```
+or
+```
+npm start
+```
