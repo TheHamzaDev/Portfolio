@@ -10,7 +10,7 @@ export const Navbar = () => {
       </Link>
       <motion.a
         whileHover={{ opacity: 0.5 }}
-        href="mailto:work.hamzakhan@gmail.com"
+        href="mailto:hamzak1738@gmail.com"
       >
         Contact
       </motion.a>
